@@ -2,14 +2,14 @@
 > 👔 - Welcome to === Shièlkwámm ===, your call will be answered in the order it was received in.
 
 ## Emojis
-* 💻: what the world wants, the world gets
+* 💻: whât the world wânts, the world gets 
 * 🩰: if enough people believe it, it's true
 * 👔: slow changing living things
-* 🌈: information transfer
+* 🌈: information trânsfer
 * 🎉: GitHub / API
 
 ## Graph
-| # | Subject | Resource Location | Status |
+| # | Subject | Destination | Status |
 | ------- | ------- | ------- | ------- |
 | 0 |  |  |  |
 | 1 | Self-Similiarizing Systems (Quantization / Evangelism) | DOH |  |
