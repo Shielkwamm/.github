@@ -8,16 +8,16 @@
 * 🌈: information trânsfer
 * 🎉: GitHub / API
 
-## Graph
+## Table
 | # | Subject | Destination | Status |
 | ------- | ------- | ------- | ------- |
 | 0 |  |  |  |
-| 1 | Self-Similiarizing Systems (Quantization / Evangelism) | DOH |  |
-| 2 |  |  | |
-| 3 |  |  |   |
-| 4 | Extreme Information Asymmetry Data |  | |
-| 5 | Consumability of Infrastructure | | |
-| 6 | Credentialed Evaluation Reports |  |  |
-| 7 |  |  |  |
+| 1 | Radio Dial | 🔘??... 🔘?-... +🔘 |  |
+| 2 | Selfish Journalism | PersonGraph | 💻 |
+| 3 | Inbound Marketing Channels | InformationAsymmetry |  |
+| 4 | Technological Critique | === Shiélkwàmm === | |
+| 5 |  | | |
+| 6 | Just Make a Pull Request | LearnEverything | 👔 |
+| 7 | Feature/Version Wait | StaticStatic | 🩰 |
 | 8 |  |  |  |
 | 9 |  |  |  |
